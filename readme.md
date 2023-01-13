@@ -11,7 +11,6 @@ I'm Arjun Dahal a Full Stack Mobile Developer. I Spend most of time coding outst
 
 <br/>
 
-[![Arjun's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunDahal864&theme=blue-green)](#)
 
 <br/>
 
@@ -40,12 +39,6 @@ I'm Arjun Dahal a Full Stack Mobile Developer. I Spend most of time coding outst
 - Cloud Native Go  Building Web Applications and Microservices for the Cloud with Go and React BY Kevin Hoffman And Dan Nemeth
 - Design Patterns: Elements of Reusable Object-Oriented Software BY Gamma Erich, Helm Richard, Johnson Ralph, Vlissides John
 
-
 <br/>
 
 I love sharing knowledge and helping.
-
-
-#### Github Stats
-
-![ArjunDahal's github stats](https://github-readme-stats.vercel.app/api?username=ArjunDahal864&count_private=true&theme=tokyonight&hide=contribs,prs)
