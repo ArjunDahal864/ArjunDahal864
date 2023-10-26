@@ -29,7 +29,9 @@ I'm Arjun Dahal a Full Stack Mobile Developer. I Spend most of time coding outst
 - REST
 - GRAPHQL
 - AWS
-
+- Java
+- Spring boot
+- kotlin
 ### What I am learning now?
 - Cloud Native Development
 - Flutter Animations
