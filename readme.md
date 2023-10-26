@@ -5,9 +5,7 @@ I'm Arjun Dahal a Full Stack Mobile Developer. I Spend most of time coding outst
 [![Linkedin Badge](https://img.shields.io/badge/-ArjunDahal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-dahal-6b7995176/) [![Mail Badge](https://img.shields.io/badge/-adahal864-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adahal864@gmail.com)
 
 -    Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with a deveopler role.
 - 📫 How to reach me: adahal864@gmail.com.
-- ⚡ Fun fact: I play games and study new techonology.
 
 <br/>
 
