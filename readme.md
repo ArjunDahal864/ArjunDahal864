@@ -2,7 +2,7 @@
 
 I'm Arjun Dahal a Full Stack Mobile Developer. I Spend most of time coding outstanding projects.
 
-[![Mail Badge](https://img.shields.io/badge/-ArjunDahal-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo0GpcL69dGBfnSG-tn_0KA) [![Linkedin Badge](https://img.shields.io/badge/-ArjunDahal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-dahal-6b7995176/) [![Mail Badge](https://img.shields.io/badge/-adahal864-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adahal864@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ArjunDahal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-dahal-6b7995176/) [![Mail Badge](https://img.shields.io/badge/-adahal864-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adahal864@gmail.com)
 
 -    Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with a deveopler role.
